@@ -1,0 +1,12 @@
+
+
+@media (max-width: 480px) {
+  
+  h1 {
+    font-size: x-large;
+  }
+
+  h4 {
+    font-size: smaller;
+  }
+}

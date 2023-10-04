@@ -1,0 +1,12 @@
+
+.aboutContainer {
+  border-style: solid;
+  border-radius: 1.5px;
+  border-radius: 10px;
+  padding: 3rem;
+  margin: 0 2rem;
+}
+
+.aboutContainer img {
+  width: 60%;
+}
